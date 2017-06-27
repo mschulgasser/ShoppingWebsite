@@ -1,0 +1,8 @@
+c:\users\malka\documents\visual studio 2015\Projects\ShoppingWebsite\AdminRegister\bin\Debug\AdminRegister.exe.config
+c:\users\malka\documents\visual studio 2015\Projects\ShoppingWebsite\AdminRegister\bin\Debug\AdminRegister.exe
+c:\users\malka\documents\visual studio 2015\Projects\ShoppingWebsite\AdminRegister\bin\Debug\AdminRegister.pdb
+c:\users\malka\documents\visual studio 2015\Projects\ShoppingWebsite\AdminRegister\bin\Debug\Shopping.Data.dll
+c:\users\malka\documents\visual studio 2015\Projects\ShoppingWebsite\AdminRegister\bin\Debug\Shopping.Data.pdb
+c:\users\malka\documents\visual studio 2015\Projects\ShoppingWebsite\AdminRegister\obj\Debug\AdminRegister.csprojResolveAssemblyReference.cache
+c:\users\malka\documents\visual studio 2015\Projects\ShoppingWebsite\AdminRegister\obj\Debug\AdminRegister.exe
+c:\users\malka\documents\visual studio 2015\Projects\ShoppingWebsite\AdminRegister\obj\Debug\AdminRegister.pdb
